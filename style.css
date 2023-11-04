@@ -1,0 +1,15 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    min-height: 100vh;
+    background: rgb(3, 5, 35);
+}
+
+img{
+    margin-top: 50px;
+    width:auto;
+    height: 500px;
+    border-radius: 30px;
+}
